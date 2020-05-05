@@ -9,4 +9,4 @@ CLR 1 Parser to construct a parsing table and parse words recognized by the inpu
 
 ## License
 
-This software is available under the [MIT License](https://github.com/surya-varathan/CLR-1-Parser/blob/master/LICENSE).
+This software is available under the [BSD 3-Clause "New" or "Revised" License](https://github.com/surya-varathan/CLR-1-Parser/blob/master/LICENSE).
